@@ -1,6 +1,7 @@
 # Lab Meeting
 
-Lab meeting is held on Thursdays from 10-11:30 AM Eastern. To join, log onto Evan’s Zoom meeting (See Slack for link).
+Lab meeting is held on Thursdays from 10-11:30 AM Eastern. To join, log onto Evan’s Zoom meeting (See Slack for link). 
+A typical lab meeting consists of announcements, an ice breaker, and 2 20 minute presentations by different lab members.
 
 ## Instructions for presenters
 Lab meetings are assigned according to a rotation schedule of lab members.
